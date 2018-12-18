@@ -1,6 +1,6 @@
 {
   "name": "dns-lookup-promise",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Promise version from `dns-lookup-cache`",
   "main": "index.js",
   "repository": {
