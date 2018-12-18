@@ -1,4 +1,4 @@
-const lookup = require('dns-lookup-cache');
+const { lookup } = require('dns-lookup-cache');
 
 module.exports = (domain, options) => {
   const promise = new Promise((resolve, reject) => {
